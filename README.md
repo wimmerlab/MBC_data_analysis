@@ -1,19 +1,5 @@
 # MBC-DataAnalysis
- This is the repository for the materials of the Data Analysis class at the UPF Masters for Brain & Cognition taught by Klaus Wimmer & Alex Hyafil, largely using material from Albert Compte.
-
- 
- # Assignments
- 
- - [Assignment 0](A0_PythonBasics/): Coding in Python
- - [Assignment 1](A1_Statistics/): Descriptive statistics, parametric vs non-parametric methods
- - [Assignment 2](A2_LinearRegression/): Parametric vs non-parametric methods & linear regression
- - [Assignment 3](A3_PsychometricCurves/): Psychometric curves
- - [Assignment 4](A4_LogisticRegression/): Logistic regression
- - [Assignment 5](A5_ModelComparison/): Parameter uncertainty, bias-variance trade-off, model comparison
- - [Assignment 6](A6_SpikeTrainAnalysis/): Spike train analysis (rastergram, PSTH, ISI distribution, Fano Factor, auto-/cross-correlation, Poisson GLM
- - [Assignment 7](A7_DimensionalityReduction/): Dimensionality reduction, Principial Component Analysis
- - [Journal Club](JournalClub/): journal club about data analysis in neuroscience
-
+ This is the repository for the materials of the Data Analysis class at the UPF Masters for Brain & Cognition taught by Klaus Wimmer & Alex Hyafil, using some previous material from Albert Compte.
  
  # Before the course
  
