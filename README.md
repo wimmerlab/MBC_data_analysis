@@ -1,5 +1,9 @@
 # MBC-DataAnalysis
  This is the repository for the materials of the Data Analysis class at the UPF Masters for Brain & Cognition taught by Klaus Wimmer & Alex Hyafil, using some previous material from Albert Compte.
+
+ # Assignments
+ 
+ - [Assignment 0](A0_PythonBasics/): Coding in Python
  
  # Before the course
  
