@@ -4,6 +4,7 @@
  # Assignments
  
  - [Assignment 0](A0_PythonBasics/): Coding in Python
+ - [Assignment 1](A1_Statistics/): Descriptive statistics, parametric vs non-parametric methods
  
  # Before the course
  
