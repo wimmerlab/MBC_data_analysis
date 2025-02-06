@@ -7,6 +7,8 @@
  - [Assignment 1](A1_Statistics/): Descriptive statistics, parametric vs non-parametric methods
  - [Assignment 2](A2_LinearRegression/): Parametric vs non-parametric methods & linear regression
  - [Assignment 3](A3_PsychometricCurves/): Psychometric curves
+ - [Assignment 4](A4_LogisticRegression/): Psychometric curves & logistic regression
+
 
  
  # Before the course
