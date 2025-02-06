@@ -14,3 +14,8 @@ The following resources will help you to get ready to complete this assignment.
     <li>OPTIONAL: If you were wondering why we skip ANOVAs and are happy just with linear models, ANOVA being such a popular statistical tool, <a href="https://eigenfoo.xyz/tests-as-linear/" target="_blank">here</a> is a more advanced Python document for you to make the point that linear models are a very general framework, which includes many of the classical statistical tests (also ANOVAs). We can run all our tests with linear models!!
 </ul>
 </div>
+
+
+- **Tutorial**: statistical interaction effects [Notebook](interaction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A4_LogisticRegression/interaction.ipynb) 
+
+- **Assignment**: logistic regression and generalized linear mixed models [Notebook](Assignment4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A4_LogisticRegression/Assignment4.ipynb)  
