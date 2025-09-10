@@ -19,7 +19,7 @@
  ## Why should a cognitive psychologist / neuroscientist learn how to code? 
  See the arguments in these different sources:
  - "The next generation of neuroscientists needs to learn how to code" [article from Neuron journal](https://doi.org/10.1016/j.neuron.2021.12.001)
- - "Why it's important to learn to code in contemporary biology?" [article from Wire](https://www.wired.com/2017/03/biologists-teaching-code-survive/?mbid=nl_31817_p4&CNDID=49340875)
+ - "Why it's important to learn to code in contemporary biology?" [article from Wired](https://www.wired.com/2017/03/biologists-teaching-code-survive/?mbid=nl_31817_p4&CNDID=49340875)
  - "Why every (psychology) student should learn to code" [blog post](https://computingforpsychologists.wordpress.com/2012/01/13/why-every-psychology-student-should-learn-to-code/)
 
 ## Python tutorials
