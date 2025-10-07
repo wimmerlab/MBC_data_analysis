@@ -14,4 +14,4 @@ The following resources will help you to get ready to complete this assignment.
 </ul>
 </div>
 
-<-- <b>Assignment:</b> [Notebook](Assignment2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A2_LinearRegression/Assignment2.ipynb) Solutions: [Notebook](Assignment2_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A2_LinearRegression/Assignment2_solutions.ipynb) -->
+<!-- <b>Assignment:</b> [Notebook](Assignment2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A2_LinearRegression/Assignment2.ipynb) Solutions: [Notebook](Assignment2_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A2_LinearRegression/Assignment2_solutions.ipynb) --!>
