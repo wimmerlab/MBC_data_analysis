@@ -20,5 +20,5 @@ The following resources will help you to get ready to complete this assignment.
 
 - Slides: [Intro Slides](Slides_descriptive_stats.pdf)
 
-- Descriptive statistics and hypothesis tests [Notebook](Assignment1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A1_Statistics/Assignment1.ipynb)  <!-- Solutions: [Notebook](Assignment1_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A1_Statistics/Assignment1_solutions.ipynb) 
--->
+- Descriptive statistics and hypothesis tests [Notebook](Assignment1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A1_Statistics/Assignment1.ipynb) Solutions: [Notebook](Assignment1_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A1_Statistics/Assignment1_solutions.ipynb) 
+
