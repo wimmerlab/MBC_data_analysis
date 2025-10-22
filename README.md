@@ -7,8 +7,8 @@
  - [Assignment 1](A1_Statistics/): Descriptive statistics and parametric vs non-parametric methods
  - [Assignment 2](A2_LinearRegression/): Linear regression
  - [Assignment 3](A3_PsychometricCurves/): Psychometric curves
- <!---  - [Assignment 4](A4_LogisticRegression/): Psychometric curves & logistic regression
- - [Assignment 5](A5_ModelComparison/): Confidence intervals, the bias-variance trade-off & model comparison
+ - [Assignment 4](A4_LogisticRegression/): Logistic regression
+  <!---  - [Assignment 5](A5_ModelComparison/): Confidence intervals, the bias-variance trade-off & model comparison
  - [Assignment 6](A6_RegressionAdvanced/): Model identifiability, regressor collinearity, simulation-based power analysis, linear mixed models
  - [Assignment 7](A7_DimensionalityReduction/): Dimensionality reduction, Principal Component Analysis
  - [Assignment 8](A8_SpikeTrainAnalysis/): Spike train analysis (rastergram, PSTH, ISI distribution, Fano Factor, auto-/cross-correlation, Poisson GLM
