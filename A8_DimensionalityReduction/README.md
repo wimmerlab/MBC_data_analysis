@@ -1,4 +1,4 @@
-## Assignment 7: Dimensionality reduction
+## Assignment 8: Dimensionality reduction
 
 **In this assignment, we will see how to analyze high-dimensional neural data:**
 - basics of **principal component analysis (PCA)**
