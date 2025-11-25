@@ -11,10 +11,8 @@
  - [Assignment 5](A5_ModelComparison/): Confidence intervals, the bias-variance trade-off & model comparison
  - [Assignment 6](A6_RegressionAdvanced/): Model identifiability, regressor collinearity, simulation-based power analysis
  - [Assignment 7](A7_DriftDiffusionModel/): the Drift-Diffusion Model
- <!---  
- - [Assignment 7](A7_DimensionalityReduction/): Dimensionality reduction, Principal Component Analysis
- - [Assignment 8](A8_SpikeTrainAnalysis/): Spike train analysis (rastergram, PSTH, ISI distribution, Fano Factor, auto-/cross-correlation, Poisson GLM
--->
+ - [Assignment 8](A8_DimensionalityReduction/): Dimensionality reduction, Principal Component Analysis
+ - [Journal Club](JournalClub/): journal club about data analysis in neuroscience
  
  # Before the course
  
