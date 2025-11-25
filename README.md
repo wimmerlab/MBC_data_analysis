@@ -12,9 +12,7 @@
  - [Assignment 6](A6_RegressionAdvanced/): Model identifiability, regressor collinearity, simulation-based power analysis
  - [Assignment 7](A7_DriftDiffusionModel/): the Drift-Diffusion Model
  - [Assignment 8](A8_DimensionalityReduction/): Dimensionality reduction, Principal Component Analysis
- <!---  
-  - [Journal Club](JournalClub/): journal club about data analysis in neuroscience
--->
+ - [Journal Club](JournalClub/): journal club about data analysis in neuroscience
  
  # Before the course
  
