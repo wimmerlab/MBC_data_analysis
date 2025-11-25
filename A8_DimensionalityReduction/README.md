@@ -21,9 +21,7 @@ The following resources will help you to get ready to complete this assignment.
     </ul>
 </ul>
 </div>
-<!---  
-- First part: **PCA tutorial** [Notebook](tutorial_PCA.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A7_DimensionalityReduction/tutorial_PCA.ipynb)
--->
-<!---  
-- Second part: **Assignment** [Notebook](Assignment7.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A7_DimensionalityReduction/Assignment7.ipynb) Solutions: [Notebook](Assignment7_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A7_DimensionalityReduction/Assignment7_solutions.ipynb) 
+- First part: **PCA tutorial** [Notebook](tutorial_PCA.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A8_DimensionalityReduction/tutorial_PCA.ipynb)
+- Second part: **Assignment** [Notebook](Assignment8.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A8_DimensionalityReduction/Assignment8.ipynb) 
+<!---  Solutions: [Notebook](Assignment7_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A7_DimensionalityReduction/Assignment7_solutions.ipynb) 
 -->
