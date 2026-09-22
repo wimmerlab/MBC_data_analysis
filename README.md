@@ -4,6 +4,7 @@
  # Assignments 
  
  - [Assignment 0](A0_PythonBasics/): Coding in Python
+ - <!---
  - [Assignment 1](A1_Statistics/): Descriptive statistics and parametric vs non-parametric methods
  - [Assignment 2](A2_LinearRegression/): Linear regression
  - [Assignment 3](A3_PsychometricCurves/): Psychometric curves
@@ -13,7 +14,8 @@
  - [Assignment 7](A7_DriftDiffusionModel/): the Drift-Diffusion Model
  - [Assignment 8](A8_DimensionalityReduction/): Dimensionality reduction, Principal Component Analysis
  - [Journal Club](JournalClub/): journal club about data analysis in neuroscience
- 
+ -->
+   
  # Before the course
  
  ## Why should a cognitive psychologist / neuroscientist learn how to code? 
