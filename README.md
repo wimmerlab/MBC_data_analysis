@@ -4,8 +4,8 @@ This is the repository for the materials of the Data Analysis class at the UPF M
  # Assignments 
  
  - [Assignment 0](A0_PythonBasics/): Coding in Python
-<!---
  - [Assignment 1](A1_Statistics/): Descriptive statistics and parametric vs non-parametric methods
+ <!---
  - [Assignment 2](A2_LinearRegression/): Linear regression
  - [Assignment 3](A3_PsychometricCurves/): Psychometric curves
  - [Assignment 4](A4_LogisticRegression/): Logistic regression
