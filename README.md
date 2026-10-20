@@ -26,11 +26,11 @@ This is the repository for the materials of the Data Analysis class at the UPF M
 
 ## Python tutorials
 You can brush up your Python skills by following one (or some) of these suggested Python tutorials:
- - [Introduction to Python](https://cogs18.github.io/intro.html) from the Department of Cognitive Science of UC San Diego
- - [Python for Everybody Specialization](https://www.coursera.org/specializations/python) (free Coursera course starts Dec 20)
- - [LearnPython.org](https://www.LearnPython.org)
- - [Datacamp - Intro to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
- - Python training at the [Neuromatch Academy](https://academy.neuromatch.io/about): [Day 1](https://compneuro.neuromatch.io/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.html) and [Day 2](https://compneuro.neuromatch.io/tutorials/W0D2_PythonWorkshop2/student/W0D2_Tutorial1.html), tutorials with videos 
+- [Introduction to Python](https://cogs18.github.io/intro.html) from the Department of Cognitive Science of UC San Diego
+- [Python for Everybody Specialization](https://www.coursera.org/specializations/python) (free Coursera course starts Dec 20)
+- [LearnPython.org](https://www.LearnPython.org)
+- [Datacamp - Intro to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
+- Python training at the [Neuromatch Academy](https://academy.neuromatch.io/about): [Day 1](https://compneuro.neuromatch.io/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.html) and [Day 2](https://compneuro.neuromatch.io/tutorials/W0D2_PythonWorkshop2/student/W0D2_Tutorial1.html), tutorials with videos 
 - Introductory material from the ["Advanced Scientific Programming in Python" summer school](https://aspp.school/wiki/introductory_material)
 - If your master's project relies heavily on programming or you continue along with a PhD, we strongly recommend reading quietly through Patrick Mineault's wonderful [Good Research Code Handbook](https://goodresearch.dev)
 
@@ -42,6 +42,7 @@ In this class we will run our analyses by coding them in Python. We will do this
 
 ## Statistics tutorials
 Statistics textbook (available online), with Python examples: [Statistical Thinking for the 21st Century](https://statsthinking21.org/)
+
 You can also refresh your statistics with the following online courses:
  - [Intro to statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201https://www.udacity.com/course/intro-to-statistics--st101)
  - [Intro to inferential statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
