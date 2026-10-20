@@ -6,8 +6,8 @@ This is the repository for the materials of the Data Analysis class at the UPF M
  - [Assignment 0](A0_PythonBasics/): Coding in Python
  - [Assignment 1](A1_Statistics/): Descriptive statistics and parametric vs non-parametric methods
  - [Assignment 2](A2_LinearRegression/): Linear regression
-<!---
  - [Assignment 3](A3_PsychometricCurves/): Psychometric curves
+<!---
  - [Assignment 4](A4_LogisticRegression/): Logistic regression
  - [Assignment 5](A5_ModelComparison/): Confidence intervals, the bias-variance trade-off & model comparison
  - [Assignment 6](A6_RegressionAdvanced/): Model identifiability, regressor collinearity, simulation-based power analysis
@@ -26,11 +26,11 @@ This is the repository for the materials of the Data Analysis class at the UPF M
 
 ## Python tutorials
 You can brush up your Python skills by following one (or some) of these suggested Python tutorials:
- - [Introduction to Python](https://cogs18.github.io/intro.html) from the Department of Cognitive Science of UC San Diego
- - [Python for Everybody Specialization](https://www.coursera.org/specializations/python) (free Coursera course starts Dec 20)
- - [LearnPython.org](https://www.LearnPython.org)
- - [Datacamp - Intro to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
- - Python training at the [Neuromatch Academy](https://academy.neuromatch.io/about): [Day 1](https://compneuro.neuromatch.io/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.html) and [Day 2](https://compneuro.neuromatch.io/tutorials/W0D2_PythonWorkshop2/student/W0D2_Tutorial1.html), tutorials with videos 
+- [Introduction to Python](https://cogs18.github.io/intro.html) from the Department of Cognitive Science of UC San Diego
+- [Python for Everybody Specialization](https://www.coursera.org/specializations/python) (free Coursera course starts Dec 20)
+- [LearnPython.org](https://www.LearnPython.org)
+- [Datacamp - Intro to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
+- Python training at the [Neuromatch Academy](https://academy.neuromatch.io/about): [Day 1](https://compneuro.neuromatch.io/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.html) and [Day 2](https://compneuro.neuromatch.io/tutorials/W0D2_PythonWorkshop2/student/W0D2_Tutorial1.html), tutorials with videos 
 - Introductory material from the ["Advanced Scientific Programming in Python" summer school](https://aspp.school/wiki/introductory_material)
 - If your master's project relies heavily on programming or you continue along with a PhD, we strongly recommend reading quietly through Patrick Mineault's wonderful [Good Research Code Handbook](https://goodresearch.dev)
 
@@ -41,6 +41,8 @@ In this class we will run our analyses by coding them in Python. We will do this
 - Alternatively, you can run Python codes in the cloud using Anaconda in [myapps.upf.edu](https://myapps.upf.edu/). This might be faster than on a slow local computer as it runs on UPF servers. You get a detailed explanation of this service [here](https://guiesbibtic.upf.edu/myapps/inici). When you access MyApps you will be able to upload and download files from your MyCloudFiles folder. Then, when you open a Jupyter Notebook from within a session of Anaconda in MyApps you will be working on that MyCloudFiles folder, so you can work and keep your code organized there. You will have everything in the cloud and accessible from any computer anywhere.
 
 ## Statistics tutorials
+Statistics textbook (available online), with Python examples: [Statistical Thinking for the 21st Century](https://statsthinking21.org/)
+
 You can also refresh your statistics with the following online courses:
  - [Intro to statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201https://www.udacity.com/course/intro-to-statistics--st101)
  - [Intro to inferential statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
