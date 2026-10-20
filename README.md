@@ -6,8 +6,8 @@ This is the repository for the materials of the Data Analysis class at the UPF M
  - [Assignment 0](A0_PythonBasics/): Coding in Python
  - [Assignment 1](A1_Statistics/): Descriptive statistics and parametric vs non-parametric methods
  - [Assignment 2](A2_LinearRegression/): Linear regression
-<!---
  - [Assignment 3](A3_PsychometricCurves/): Psychometric curves
+ - <!---
  - [Assignment 4](A4_LogisticRegression/): Logistic regression
  - [Assignment 5](A5_ModelComparison/): Confidence intervals, the bias-variance trade-off & model comparison
  - [Assignment 6](A6_RegressionAdvanced/): Model identifiability, regressor collinearity, simulation-based power analysis
@@ -41,6 +41,7 @@ In this class we will run our analyses by coding them in Python. We will do this
 - Alternatively, you can run Python codes in the cloud using Anaconda in [myapps.upf.edu](https://myapps.upf.edu/). This might be faster than on a slow local computer as it runs on UPF servers. You get a detailed explanation of this service [here](https://guiesbibtic.upf.edu/myapps/inici). When you access MyApps you will be able to upload and download files from your MyCloudFiles folder. Then, when you open a Jupyter Notebook from within a session of Anaconda in MyApps you will be working on that MyCloudFiles folder, so you can work and keep your code organized there. You will have everything in the cloud and accessible from any computer anywhere.
 
 ## Statistics tutorials
+Statistics textbook (available online), with Python examples: [Statistical Thinking for the 21st Century](https://statsthinking21.org/)
 You can also refresh your statistics with the following online courses:
  - [Intro to statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201https://www.udacity.com/course/intro-to-statistics--st101)
  - [Intro to inferential statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
