@@ -29,4 +29,8 @@ The following resources will help you to get ready to complete this assignment.
 
 - **Assignment**: psychometric curves and maximum likelihood estimation [Notebook](Assignment3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A3_PsychometricCurves/Assignment3.ipynb) Solutions: [Notebook](Assignment3_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC_data_analysis/blob/main/A3_PsychometricCurves/Assignment3_solutions.ipynb)
 
-- **Additional material**: [Explanation of memory bias](Memory_bias.pdf), [Figure 3 from the paper]()
+- **Additional material**: [Explanation of memory bias](Memory_bias.pdf), [Figure 3 from the Almeida et al. 2015 paper](2019-corrigendum.pdf)
+
+
+
+
